@@ -109,4 +109,4 @@ The pipeline compares Logistic Regression, Random Forest, and Gradient Boosting 
 This project is for educational purposes, built as part of a hands-on data science and machine learning pipeline learning path.
 
 ## 🙋 Author
-Mahendra
+harinandish
